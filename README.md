@@ -1,7 +1,5 @@
-# AVPlayerDemo
+# LTScrollViewDemo
 用于抖音个人中心悬浮效果
-
-* <strong>为了达到比较流利的播放效果</strong>
 
 ## 一、功能特性及使用
 
@@ -74,3 +72,7 @@
 参考：[LTScrollView](https://github.com/czhen09/ScrollPlayVideo)
 
 ### 更多问题请issue me！！！
+
+
+[Github stats](https://github-readme-stats.vercel.app/api?username=1019459067&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=1019459067&layout=compact)
